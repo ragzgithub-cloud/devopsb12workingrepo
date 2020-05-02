@@ -1,7 +1,7 @@
 #!/bin/bash
 I=0
 
-while [ $I -lt 5 ]
+while [ $I -lt 4 ]
 do
 if [ $(expr $I % 2 ) -eq 0 ]
 then
