@@ -1,6 +1,7 @@
 #!/bin/bash
 I=0
-while [ $I -lt 31 ]
+
+while [ $I -lt 11 ]
 do
 if [ $(expr $I % 2 ) -eq 0 ]
 then
